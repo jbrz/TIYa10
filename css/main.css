@@ -1,0 +1,29 @@
+div.main {
+  border: 1px solid #00C6D8;
+  width: 750px; }
+
+h3 {
+  margin-top: 0;
+  padding: 25px;
+  background-color: #00C6D8;
+  color: white;
+  margin-bottom: 0; }
+  h3:hover {
+    background-color: #00DAEE; }
+    h3:hover div {
+      border: 1px solid #00DAEE; }
+
+p {
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 200px;
+  transition: all 1s ease; }
+
+.gtfo {
+  overflow: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0; }
+
+.sup {
+  overflow: hidden; }

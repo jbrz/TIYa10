@@ -1,0 +1,3 @@
+Using js to drop an accordion.
+
+Seems like a waste of a perfectly good accordion, but drop it we must...
